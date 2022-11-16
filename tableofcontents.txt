@@ -1,0 +1,10 @@
+Table of Contents:
+
+1.User interface
+2.Enter pin
+3.Main menu
+4.Deposit cash
+5.Withdraw cash
+6.Transfer funds
+7.Check balance
+8.Balance inquiry
